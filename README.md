@@ -1,2 +1,0 @@
-# csc340projects
-idk
